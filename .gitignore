@@ -1,0 +1,18 @@
+# Build
+/target/
+
+# Eclipse
+/.project
+/.classpath
+/bin/
+
+# Intellij
+/.idea/
+*.iml
+
+# Gradle
+.gradle
+build/
+
+# Other
+src/main/resources
