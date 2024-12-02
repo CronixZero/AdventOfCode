@@ -1,4 +1,4 @@
-package xyz.cronixzero.common;
+package xyz.cronixzero.adventofcode.common;
 
 import com.google.common.io.CharStreams;
 import java.io.IOException;

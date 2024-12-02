@@ -1,4 +1,4 @@
-package xyz.cronixzero.common;
+package xyz.cronixzero.adventofcode.common;
 
 public abstract class Day {
 
